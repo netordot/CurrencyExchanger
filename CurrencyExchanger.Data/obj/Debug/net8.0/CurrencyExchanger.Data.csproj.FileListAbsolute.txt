@@ -1,0 +1,14 @@
+D:\code\Roadmap pet\CurrencyExchanger.Data\bin\Debug\net8.0\CurrencyExchanger.Data.deps.json
+D:\code\Roadmap pet\CurrencyExchanger.Data\bin\Debug\net8.0\CurrencyExchanger.Data.runtimeconfig.json
+D:\code\Roadmap pet\CurrencyExchanger.Data\bin\Debug\net8.0\CurrencyExchanger.Data.dll
+D:\code\Roadmap pet\CurrencyExchanger.Data\bin\Debug\net8.0\CurrencyExchanger.Data.pdb
+D:\code\Roadmap pet\CurrencyExchanger.Data\obj\Debug\net8.0\CurrencyExchanger.Data.csproj.AssemblyReference.cache
+D:\code\Roadmap pet\CurrencyExchanger.Data\obj\Debug\net8.0\CurrencyExchanger.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Roadmap pet\CurrencyExchanger.Data\obj\Debug\net8.0\CurrencyExchanger.Data.AssemblyInfoInputs.cache
+D:\code\Roadmap pet\CurrencyExchanger.Data\obj\Debug\net8.0\CurrencyExchanger.Data.AssemblyInfo.cs
+D:\code\Roadmap pet\CurrencyExchanger.Data\obj\Debug\net8.0\CurrencyExchanger.Data.csproj.CoreCompileInputs.cache
+D:\code\Roadmap pet\CurrencyExchanger.Data\obj\Debug\net8.0\CurrencyExchanger.Data.dll
+D:\code\Roadmap pet\CurrencyExchanger.Data\obj\Debug\net8.0\refint\CurrencyExchanger.Data.dll
+D:\code\Roadmap pet\CurrencyExchanger.Data\obj\Debug\net8.0\CurrencyExchanger.Data.pdb
+D:\code\Roadmap pet\CurrencyExchanger.Data\obj\Debug\net8.0\CurrencyExchanger.Data.genruntimeconfig.cache
+D:\code\Roadmap pet\CurrencyExchanger.Data\obj\Debug\net8.0\ref\CurrencyExchanger.Data.dll
