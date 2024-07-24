@@ -3,44 +3,40 @@
   "WorkspaceRootPath": "D:\\code\\Roadmap pet\\CurrencyExchanger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68212C55-3641-422F-A97F-49423A6E1918}|..\\CurrencyExchanger.Data\\CurrencyExchanger.Data.csproj|d:\\code\\roadmap pet\\currencyexchanger.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Roadmap pet\\CurrencyExchanger\\Migrations\\20240718112057_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240718112057_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Roadmap pet\\CurrencyExchanger\\Migrations\\20240718111200_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240718111200_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68212C55-3641-422F-A97F-49423A6E1918}|..\\CurrencyExchanger.Data\\CurrencyExchanger.Data.csproj|d:\\code\\roadmap pet\\currencyexchanger.data\\currencyexchanger.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68212C55-3641-422F-A97F-49423A6E1918}|..\\CurrencyExchanger.Data\\CurrencyExchanger.Data.csproj|d:\\code\\roadmap pet\\currencyexchanger.data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\models\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:models\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68212C55-3641-422F-A97F-49423A6E1918}|..\\CurrencyExchanger.Data\\CurrencyExchanger.Data.csproj|d:\\code\\roadmap pet\\currencyexchanger.data\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\configurations\\exchangerateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:configurations\\exchangerateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\models\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:models\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\currencyexchanger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:currencyexchanger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|d:\\code\\roadmap pet\\currencyexchanger\\migrations\\20240718112057_initialdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}|CurrencyExchanger.csproj|solutionrelative:migrations\\20240718112057_initialdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Roadmap pet\\CurrencyExchanger\\Migrations\\20240718111200_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240718111200_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,8 +49,94 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Models\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Models\\DataSeeder.cs",
+              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Models\\DataSeeder.cs",
+              "RelativeToolTip": "Models\\DataSeeder.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:02:24.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRateConfiguration.cs",
+              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Configurations\\ExchangeRateConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\ExchangeRateConfiguration.cs",
+              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Configurations\\ExchangeRateConfiguration.cs",
+              "RelativeToolTip": "Configurations\\ExchangeRateConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:33:03.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:15:20.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:18:12.323Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "Models\\Currency.cs",
+              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Models\\Currency.cs",
+              "RelativeToolTip": "Models\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:10:50.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Models\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "Models\\ExchangeRate.cs",
+              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Models\\ExchangeRate.cs",
+              "RelativeToolTip": "Models\\ExchangeRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:14:42.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20240718112057_InitialDatabase.cs",
               "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Migrations\\20240718112057_InitialDatabase.cs",
               "RelativeDocumentMoniker": "Migrations\\20240718112057_InitialDatabase.cs",
@@ -67,46 +149,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T20:56:09.306Z",
+              "DocumentIndex": 6,
+              "Title": "CurrencyExchanger.csproj",
+              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\CurrencyExchanger.csproj",
+              "RelativeDocumentMoniker": "CurrencyExchanger.csproj",
+              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\CurrencyExchanger.csproj",
+              "RelativeToolTip": "CurrencyExchanger.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T21:10:06.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T13:25:59.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger.Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\CurrencyExchanger.Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger.Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\CurrencyExchanger.Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:20:18.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "20240718111200_InitialDatabase.cs",
               "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Migrations\\20240718111200_InitialDatabase.cs",
               "RelativeDocumentMoniker": "Migrations\\20240718111200_InitialDatabase.cs",
@@ -114,94 +170,7 @@
               "RelativeToolTip": "Migrations\\20240718111200_InitialDatabase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T11:12:00.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T21:15:20.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExchangeRate.cs",
-              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger.Data\\ExchangeRate.cs",
-              "RelativeDocumentMoniker": "..\\CurrencyExchanger.Data\\ExchangeRate.cs",
-              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger.Data\\ExchangeRate.cs",
-              "RelativeToolTip": "..\\CurrencyExchanger.Data\\ExchangeRate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:21:41.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Currency.cs",
-              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger.Data\\Currency.cs",
-              "RelativeDocumentMoniker": "..\\CurrencyExchanger.Data\\Currency.cs",
-              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger.Data\\Currency.cs",
-              "RelativeToolTip": "..\\CurrencyExchanger.Data\\Currency.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:20:54.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CurrencyExchanger.Data",
-              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger.Data\\CurrencyExchanger.Data.csproj",
-              "RelativeDocumentMoniker": "..\\CurrencyExchanger.Data\\CurrencyExchanger.Data.csproj",
-              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger.Data\\CurrencyExchanger.Data.csproj",
-              "RelativeToolTip": "..\\CurrencyExchanger.Data\\CurrencyExchanger.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-17T14:24:19.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Services\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\Services\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T21:12:37.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CurrencyExchanger.csproj",
-              "DocumentMoniker": "D:\\code\\Roadmap pet\\CurrencyExchanger\\CurrencyExchanger.csproj",
-              "RelativeDocumentMoniker": "CurrencyExchanger.csproj",
-              "ToolTip": "D:\\code\\Roadmap pet\\CurrencyExchanger\\CurrencyExchanger.csproj",
-              "RelativeToolTip": "CurrencyExchanger.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-16T21:10:06.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T11:12:00.756Z"
             }
           ]
         }

@@ -79,8 +79,6 @@ D:\code\Roadmap pet\CurrencyExchanger\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis
 D:\code\Roadmap pet\CurrencyExchanger\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\code\Roadmap pet\CurrencyExchanger\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\code\Roadmap pet\CurrencyExchanger\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\code\Roadmap pet\CurrencyExchanger\bin\Debug\net8.0\CurrencyExchanger.Data.dll
-D:\code\Roadmap pet\CurrencyExchanger\bin\Debug\net8.0\CurrencyExchanger.Data.pdb
 D:\code\Roadmap pet\CurrencyExchanger\obj\Debug\net8.0\CurrencyExchanger.csproj.AssemblyReference.cache
 D:\code\Roadmap pet\CurrencyExchanger\obj\Debug\net8.0\CurrencyExchanger.GeneratedMSBuildEditorConfig.editorconfig
 D:\code\Roadmap pet\CurrencyExchanger\obj\Debug\net8.0\CurrencyExchanger.AssemblyInfoInputs.cache
@@ -105,3 +103,4 @@ D:\code\Roadmap pet\CurrencyExchanger\obj\Debug\net8.0\refint\CurrencyExchanger.
 D:\code\Roadmap pet\CurrencyExchanger\obj\Debug\net8.0\CurrencyExchanger.pdb
 D:\code\Roadmap pet\CurrencyExchanger\obj\Debug\net8.0\CurrencyExchanger.genruntimeconfig.cache
 D:\code\Roadmap pet\CurrencyExchanger\obj\Debug\net8.0\ref\CurrencyExchanger.dll
+D:\code\Roadmap pet\CurrencyExchanger\obj\Debug\net8.0\CurrencyExchanger.sourcelink.json

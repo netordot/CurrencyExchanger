@@ -5,7 +5,7 @@
     {
         public int ID { get; set; }
         public string CurrencyCode { get; set; }
-        public int FullName { get; set; }
+        public string FullName { get; set; }
 
         public string CurrencySgin { get; set; }
 

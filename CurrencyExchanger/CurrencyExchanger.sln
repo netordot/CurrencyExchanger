@@ -5,8 +5,6 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrencyExchanger", "CurrencyExchanger.csproj", "{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchanger.Data", "..\CurrencyExchanger.Data\CurrencyExchanger.Data.csproj", "{68212C55-3641-422F-A97F-49423A6E1918}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{164A0D06-1C34-4EE1-ACFE-06C3D6826B08}.Release|Any CPU.Build.0 = Release|Any CPU
-		{68212C55-3641-422F-A97F-49423A6E1918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68212C55-3641-422F-A97F-49423A6E1918}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68212C55-3641-422F-A97F-49423A6E1918}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68212C55-3641-422F-A97F-49423A6E1918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

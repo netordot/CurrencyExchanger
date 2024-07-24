@@ -1,5 +1,5 @@
-﻿using CurrencyExchanger.Models;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+
 
 namespace CurrencyExchanger.Services
 {
